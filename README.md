@@ -1,2 +1,2 @@
-{ "snap": [ "maddyramu", "maddytemk", "maddyrenp", "maddytes", "maddytes", "maddytis", "maddytis" ], "insta": [ "maddyerso", "maddytoz", "maddytoz", "maddyderc", "maddyderc" ], "tele": [ "maddyyes", "maddyhii", "maddyhii" ] }
+{ "snap": [ "maddyfop", "maddyfeq", "maddytorp", "maddyteem", "maddybeeg", "maddyteem", "maddybeeg" ], "insta": [ "maddyraby", "maddyfreex", "maddyroor", "maddyfreex", "maddyroor" ], "tele": [ "maddy_roses", "maddy_roses", "maddy_roses" ] }
 
